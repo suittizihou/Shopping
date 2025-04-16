@@ -1,0 +1,34 @@
+{
+    "vsnotes.defaultNoteTitle": "{yyyy}/{dt}_{title}.{ext}",
+    "vsnotes.tokens": [
+
+        {
+            "type": "datetime",
+            "token": "{dt}",
+            "format": "YYYY-MM-DD_HH-mm",
+            "description": "Insert formatted datetime."
+        },
+        {
+            "type": "title",
+            "token": "{title}",
+            "description": "Insert note title from input box.",
+            "format": "Untitled"
+        },
+        {
+            "type": "extension",
+            "token": "{ext}",
+            "description": "Insert file vsnotes.",
+            "format": "md"
+        },
+        {
+            "type": "datetime",
+            "token": "{yyyy}",
+            "format": "YYYY",
+            "description": "Insert formatted datetime."
+        }
+    ],
+    "vsnotes.templates": [
+        "chitoseya",
+    ],
+    "vsnotes.defaultNotePath": "h:\\Other\\Shopping"
+}

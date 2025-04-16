@@ -1,0 +1,12 @@
+{
+    "vsnote_template_chitoseya": {
+        "prefix": "vsnote_template_chitoseya",
+        "body": [
+            "---",
+            "tags:",
+            "\t- 千歳屋",
+            "---",
+        ],
+        "description": "千歳屋のメモ"
+    }
+}
